@@ -1,5 +1,4 @@
 - Hello, I’m Bontu Lema
-- Fullstack Web Developer 
 - I’m currently learning Software Engineering at Dire Dawa University
 
 <img align="right" alt="Coding" width="400" src="https://www.example.com/your-image.gif">
